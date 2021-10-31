@@ -1,0 +1,5 @@
+org\foltan\primeautosales\jsf\AboutViewController.class
+org\foltan\primeautosales\entity\User.class
+org\foltan\primeautosales\jsf\MainViewController.class
+org\foltan\primeautosales\jsf\UserRegistrationController.class
+org\foltan\primeautosales\jsf\Car.class
